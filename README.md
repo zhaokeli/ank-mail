@@ -99,9 +99,9 @@ function send_mail($conf = array())
 $result = send_mail([
     'host'       => 'smtp.163.com',
     'port'       => 25,
-    'username'   => 'deariloveyoutoever',
-    'password'   => '01227328',
-    'fromemail'  => 'deariloveyoutoever@163.com',
+    'username'   => 'deari****oever',
+    'password'   => '*****',
+    'fromemail'  => 'dearilo****oever@163.com',
     'fromname'   => '我是网易邮箱',
 
     'toemail'    => '735579768@qq.com',
