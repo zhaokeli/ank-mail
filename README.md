@@ -52,7 +52,7 @@ function send_mail($conf = array())
     }
 
     // import('Ainiku.PHPMailer');
-    $mail = new \ank\extend\PHPMailer();
+    $mail = new \ank\PHPMailer();
 
     $mail->SMTPDebug = 0; // 关闭SMTP调试功能
     $mail->IsSMTP(); // send via SMTP
