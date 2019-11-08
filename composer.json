@@ -1,5 +1,5 @@
 {
-    "name": "mokuyu/ank-mail",
+    "name": "ank/mail",
     "description": "php mail",
     "license": "MIT",
     "minimum-stability": "dev",
